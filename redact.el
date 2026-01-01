@@ -1,6 +1,6 @@
 ;;; redact.el --- Visually redact buffer text. -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2023-2025  Nicholas Vollmer
+;; Copyright (C) 2023-2026  Nicholas Vollmer
 
 ;; Author: Nicholas Vollmer
 ;; Keywords: convenience
